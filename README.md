@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel George</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from Kerala, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joelgeorgee&label=Profile%20views&color=0e75b6&style=flat" alt="joelgeorgee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoelGeorge04&label=Profile%20views&color=0e75b6&style=flat" alt="joelgeorgee" /> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
 
